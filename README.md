@@ -1,2 +1,2 @@
 # remote-soil-pH-monitoring-tool
-Click folder to view files
+Click files/folders to view code
